@@ -1,0 +1,11 @@
+﻿  Bank Project Exstension 1.cpp
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(192,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(230,33): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(343,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(368,13): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(568,55): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(581,51): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(591,55): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(597,13): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\hbash\source\repos\Bank Project Exstension 1\Bank Project Exstension 1.cpp(836,13): warning C4129: 'T': unrecognized character escape sequence
+  Bank Project Exstension 1.vcxproj -> C:\Users\hbash\source\repos\Bank Project Exstension 1\x64\Debug\Bank Project Exstension 1.exe
